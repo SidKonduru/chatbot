@@ -1,0 +1,4 @@
+tensorflow>=2.12,<3
+numpy>=1.23
+nltk>=3.8
+mcp>=1.2

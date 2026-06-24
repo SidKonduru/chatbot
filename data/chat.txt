@@ -1,0 +1,1590 @@
+hi there
+hello how can i help you
+what is your name
+i am a chatbot assistant
+how are you
+i am doing well thanks
+what can you do
+i can answer simple questions
+tell me a joke
+why did the chicken cross the road
+who are you
+i am an ai chatbot
+good morning
+good morning to you too
+good night
+good night sleep well
+thank you
+you are welcome
+thanks a lot
+no problem at all
+what is the weather
+i do not know the weather
+where are you from
+i live in the cloud
+do you like music
+yes i enjoy music very much
+what is your favorite color
+my favorite color is blue
+how old are you
+i was created recently
+can you help me
+of course i will try my best
+what time is it
+i cannot tell the time
+are you real
+i am a virtual assistant
+what is ai
+artificial intelligence is computer learning
+do you understand me
+yes i understand your questions
+see you later
+goodbye have a nice day
+bye
+bye take care
+hello
+hi there nice to meet you
+hey
+hello how are you today
+what do you know
+i know many simple things
+help me please
+sure what do you need
+i am sad
+i hope you feel better soon
+i am happy
+that is great to hear
+what is love
+love is caring for others
+tell me something
+the sky is blue today
+who made you
+i was built by developers
+are you smart
+i try my best every day
+what is python
+python is a programming language
+what is machine learning
+machine learning teaches computers to learn
+how does this work
+i use a neural network model
+what is your purpose
+my purpose is to chat with you
+nice to meet you
+nice to meet you too
+what is your job
+my job is to answer questions
+can we be friends
+of course we can be friends
+what should i do
+that depends on your goals
+i am bored
+maybe try something new today
+what is life
+life is a beautiful journey
+do you sleep
+no i am always awake
+do you eat
+no i do not need food
+what is the meaning of life
+many people ask that question
+how do i learn python
+start with basic tutorials online
+what is tensorflow
+tensorflow is a machine learning library
+what is nltk
+nltk is a natural language toolkit
+what is deep learning
+deep learning uses neural networks
+what is a chatbot
+a chatbot is a talking computer program
+what is seq2seq
+seq2seq maps input sequences to outputs
+how do i train you
+run the train command in main
+what data do you need
+i need question and answer pairs
+how many layers do you have
+i have two lstm layers
+what is an embedding
+embeddings represent words as vectors
+what is lstm
+lstm is a type of recurrent network
+what is keras
+keras is a deep learning api
+what is numpy
+numpy is a numerical computing library
+what is a model
+a model learns patterns from data
+what is inference
+inference is making predictions with a model
+what is training
+training is learning from examples
+what is validation
+validation checks model performance on new data
+what is overfitting
+overfitting means memorizing instead of learning
+what is a vocabulary
+a vocabulary is the set of known words
+what is tokenization
+tokenization splits text into words
+what is padding
+padding makes sequences the same length
+what is an encoder
+an encoder reads the input sequence
+what is a decoder
+a decoder generates the output sequence
+what is attention
+attention focuses on relevant parts of input
+what is a loss function
+a loss function measures prediction errors
+what is an optimizer
+an optimizer updates model weights during training
+what is a batch
+a batch is a group of training examples
+what is an epoch
+an epoch is one pass through all data
+what is early stopping
+early stopping stops training when validation worsens
+what is a checkpoint
+a checkpoint saves the best model weights
+what is greedy decoding
+greedy decoding picks the most likely next word
+what is teacher forcing
+teacher forcing uses true outputs during training
+what is a seed
+a seed makes random splits reproducible
+what is dropout
+dropout randomly disables neurons to prevent overfitting
+what is a hyperparameter
+a hyperparameter is a training setting you choose
+what is accuracy
+accuracy is the fraction of correct predictions
+what is cross entropy
+cross entropy is a common classification loss
+what is a dataset
+a dataset is a collection of training examples
+what is preprocessing
+preprocessing prepares raw text for training
+what is metadata
+metadata stores vocabulary and settings
+what is a weight file
+a weight file stores trained model parameters
+what is the cli
+the cli is the command line interface
+how do i chat with you
+run python main dot py chat
+how do i preprocess data
+run python main dot py preprocess
+how do i start training
+run python main dot py train
+what files do you use
+i use idx q idx a and metadata pkl
+where are weights saved
+weights are saved in the weights folder
+what is mcp
+mcp lets tools connect to cursor
+what is cursor
+cursor is an ai powered code editor
+what is wsl
+wsl runs linux on windows
+what is linux
+linux is an open source operating system
+what is bash
+bash is a common linux shell
+what is git
+git is a version control system
+what is a virtual environment
+a virtual environment isolates python packages
+what is pip
+pip installs python packages
+what is a requirement file
+a requirement file lists project dependencies
+what is a readme
+a readme explains how to use a project
+what is open source
+open source code is freely available to use
+what is a license
+a license defines how software can be used
+what is debugging
+debugging is finding and fixing errors
+what is testing
+testing checks that code works correctly
+what is refactoring
+refactoring improves code without changing behavior
+what is documentation
+documentation explains how things work
+what is an api
+an api is an interface for programs to communicate
+what is json
+json is a text format for structured data
+what is utf eight
+utf eight is a common text encoding
+what is a file path
+a file path locates a file on disk
+what is a directory
+a directory is a folder containing files
+what is an argument
+an argument is a value passed to a command
+what is a parser
+a parser reads and interprets command line input
+what is a subcommand
+a subcommand is an action like train or chat
+what is stdin
+stdin is standard input from the keyboard
+what is stdout
+stdout is standard output to the terminal
+what is stderr
+stderr is standard error output
+what is an exception
+an exception is a runtime error in code
+what is a traceback
+a traceback shows where an error occurred
+what is import
+import loads code from another module
+what is a function
+a function is reusable code that does a task
+what is a class
+a class defines a type of object
+what is an object
+an object is an instance of a class
+what is a method
+a method is a function on an object
+what is a module
+a module is a python source file
+what is a package
+a package is a collection of modules
+what is a variable
+a variable stores a value in memory
+what is a loop
+a loop repeats code multiple times
+what is a condition
+a condition chooses different code paths
+what is a list
+a list is an ordered collection of items
+what is a dictionary
+a dictionary maps keys to values
+what is a tuple
+a tuple is an immutable ordered collection
+what is a set
+a set is an unordered collection of unique items
+what is a string
+a string is a sequence of characters
+what is an integer
+an integer is a whole number
+what is a float
+a float is a number with decimals
+what is a boolean
+a boolean is true or false
+what is none
+none represents the absence of a value
+what is slicing
+slicing extracts part of a sequence
+what is comprehension
+comprehension builds collections in one line
+what is lambda
+lambda creates a small anonymous function
+what is recursion
+recursion is when a function calls itself
+what is iteration
+iteration processes items one by one
+what is a generator
+a generator yields values lazily
+what is a decorator
+a decorator wraps a function with extra behavior
+what is a context manager
+a context manager handles setup and cleanup
+what is threading
+threading runs code concurrently in one process
+what is multiprocessing
+multiprocessing runs code in separate processes
+what is async
+async code can wait without blocking
+what is await
+await pauses until an async task completes
+what is a socket
+a socket is an endpoint for network communication
+what is http
+http is a protocol for web communication
+what is https
+https is http with encryption
+what is rest
+rest is a style for web apis
+what is graphql
+graphql is a query language for apis
+what is sql
+sql is a language for querying databases
+what is nosql
+nosql databases store data in flexible formats
+what is redis
+redis is an in memory data store
+what is postgres
+postgres is a popular relational database
+what is sqlite
+sqlite is a lightweight embedded database
+what is docker
+docker packages apps in containers
+what is kubernetes
+kubernetes orchestrates containers at scale
+what is cloud computing
+cloud computing runs services on remote servers
+what is aws
+aws is amazon web services cloud platform
+what is azure
+azure is microsoft cloud platform
+what is gcp
+gcp is google cloud platform
+what is serverless
+serverless runs code without managing servers
+what is ci cd
+ci cd automates testing and deployment
+what is github actions
+github actions runs workflows in github
+what is linting
+linting checks code style and common mistakes
+what is formatting
+formatting makes code consistently readable
+what is type hinting
+type hinting annotates expected types in python
+what is mypy
+mypy checks python types statically
+what is pytest
+pytest is a popular python testing framework
+what is unittest
+unittest is pythons built in testing framework
+what is coverage
+coverage measures how much code tests run
+what is profiling
+profiling measures where code spends time
+what is benchmarking
+benchmarking compares performance of implementations
+what is logging
+logging records events from running programs
+what is monitoring
+monitoring tracks system health over time
+what is observability
+observability helps understand system behavior from data
+what is a metric
+a metric is a numeric measurement over time
+what is a trace
+a trace follows a request through services
+what is a log
+a log is a timestamped record of an event
+what is security
+security protects systems and data from harm
+what is authentication
+authentication verifies who a user is
+what is authorization
+authorization controls what a user can do
+what is encryption
+encryption scrambles data so only authorized parties read it
+what is hashing
+hashing maps data to a fixed size digest
+what is a secret
+a secret is sensitive information like a password
+what is an environment variable
+an environment variable configures runtime behavior
+what is dot env
+dot env files store environment variables locally
+what is oauth
+oauth is a standard for delegated authorization
+what is jwt
+jwt is a compact token format for claims
+what is sso
+sso lets users sign in once for many apps
+what is mfa
+mfa requires multiple factors to authenticate
+what is phishing
+phishing tricks users into revealing secrets
+what is malware
+malware is malicious software
+what is a firewall
+a firewall filters network traffic
+what is a vpn
+a vpn encrypts traffic between your device and a server
+what is dns
+dns maps domain names to ip addresses
+what is tcp
+tcp is a reliable transport protocol
+what is udp
+udp is a fast connectionless transport protocol
+what is ip
+ip is the internet protocol for addressing
+what is ipv6
+ipv6 is the newer internet addressing scheme
+what is latency
+latency is delay before a response arrives
+what is bandwidth
+bandwidth is data transfer capacity
+what is throughput
+throughput is actual data processed over time
+what is caching
+caching stores copies of data for faster access
+what is a cdn
+a cdn distributes content closer to users
+what is load balancing
+load balancing spreads traffic across servers
+what is replication
+replication copies data for availability
+what is sharding
+sharding splits data across multiple stores
+what is consensus
+consensus agrees on state in distributed systems
+what is cap theorem
+cap theorem describes tradeoffs in distributed systems
+what is eventual consistency
+eventual consistency allows temporary disagreement between replicas
+what is a queue
+a queue buffers tasks for asynchronous processing
+what is a worker
+a worker processes jobs from a queue
+what is a scheduler
+a scheduler decides when tasks run
+what is a cron job
+a cron job runs on a fixed schedule
+what is a webhook
+a webhook sends an http callback on events
+what is polling
+polling repeatedly checks for new data
+what is streaming
+streaming sends data continuously as it arrives
+what is batch processing
+batch processing handles large jobs in chunks
+what is etl
+etl extracts transforms and loads data
+what is a data pipeline
+a data pipeline moves and processes data
+what is a feature store
+a feature store manages ml features for training and serving
+what is model serving
+model serving runs trained models in production
+what is a/b testing
+a b testing compares two variants experimentally
+what is a metric dashboard
+a dashboard visualizes metrics in one place
+what is an alert
+an alert notifies you when something goes wrong
+what is on call
+on call engineers respond to production incidents
+what is an incident
+an incident is an unplanned service disruption
+what is a postmortem
+a postmortem documents what happened and how to improve
+what is sla
+sla is a service level agreement
+what is sli
+sli is a service level indicator
+what is slo
+slo is a service level objective
+what is toil
+toil is repetitive manual operational work
+what is automation
+automation replaces manual steps with scripts
+what is infrastructure as code
+infrastructure as code defines infra in files
+what is terraform
+terraform provisions infrastructure declaratively
+what is ansible
+ansible automates configuration management
+what is helm
+helm packages kubernetes applications
+what is nginx
+nginx is a web server and reverse proxy
+what is apache
+apache is a long standing web server
+what is gunicorn
+gunicorn is a python wsgi http server
+what is uvicorn
+uvicorn is an asgi server for python
+what is fastapi
+fastapi is a modern python web framework
+what is flask
+flask is a lightweight python web framework
+what is django
+django is a full featured python web framework
+what is react
+react is a javascript ui library
+what is vue
+vue is a progressive javascript framework
+what is angular
+angular is a typescript web framework
+what is next js
+next js is a react framework for production
+what is node js
+node js runs javascript on the server
+what is npm
+npm is the node package manager
+what is yarn
+yarn is another javascript package manager
+what is webpack
+webpack bundles frontend assets
+what is vite
+vite is a fast frontend build tool
+what is typescript
+typescript adds types to javascript
+what is eslint
+eslint lints javascript and typescript code
+what is prettier
+prettier formats code automatically
+what is html
+html structures web page content
+what is css
+css styles web page appearance
+what is javascript
+javascript adds interactivity to web pages
+what is dom
+dom is the document object model in browsers
+what is ajax
+ajax loads data without full page reloads
+what is fetch
+fetch is a browser api for http requests
+what is cors
+cors controls cross origin resource sharing
+what is websocket
+websocket enables full duplex browser communication
+what is sse
+sse streams server events to the browser
+what is graphql client
+a graphql client queries a graphql api
+what is rest client
+a rest client calls rest endpoints
+what is openapi
+openapi describes http apis in a standard format
+what is swagger
+swagger tools work with openapi specifications
+what is grpc
+grpc is a high performance rpc framework
+what is protobuf
+protobuf is a compact binary serialization format
+what is avro
+avro is a data serialization system
+what is parquet
+parquet is a columnar storage format
+what is csv
+csv is comma separated values text format
+what is tsv
+tsv is tab separated values text format
+what is yaml
+yaml is a human readable data format
+what is toml
+toml is a config file format
+what is ini
+ini is a simple configuration file format
+what is xml
+xml is a markup language for structured data
+what is markdown
+markdown is a lightweight text formatting syntax
+what is latex
+latex typesets documents especially with math
+what is pdf
+pdf is a portable document format
+what is svg
+svg is scalable vector graphics for the web
+what is png
+png is a lossless raster image format
+what is jpeg
+jpeg is a common lossy image format
+what is gif
+gif supports short animated images
+what is webp
+webp is a modern efficient image format
+what is ffmpeg
+ffmpeg processes audio and video files
+what is opencv
+opencv is a computer vision library
+what is pillow
+pillow is a python imaging library
+what is matplotlib
+matplotlib plots data in python
+what is seaborn
+seborrn makes statistical plots in python
+what is plotly
+plotly creates interactive charts
+what is pandas
+pandas handles tabular data in python
+what is polars
+polars is a fast dataframe library
+what is scipy
+scipy provides scientific computing routines
+what is scikit learn
+scikit learn is a classic ml library
+what is xgboost
+xgboost is a gradient boosting library
+what is lightgbm
+lightgbm is another gradient boosting library
+what is catboost
+catboost handles categorical features well
+what is pytorch
+pytorch is a popular deep learning framework
+what is jax
+jax is a numerical computing library with autodiff
+what is hugging face
+hugging face hosts models and datasets
+what is transformers
+transformers is a library for language models
+what is bert
+bert is a bidirectional transformer language model
+what is gpt
+gpt is a generative pretrained transformer model
+what is llm
+llm means large language model
+what is prompt engineering
+prompt engineering crafts inputs to guide models
+what is fine tuning
+fine tuning adapts a pretrained model to a task
+what is rlhf
+rlhf aligns models with human preferences
+what is rag
+rag retrieves documents to improve answers
+what is vector search
+vector search finds similar items by embedding distance
+what is embedding model
+an embedding model maps text to vectors
+what is token limit
+token limit is max tokens a model accepts
+what is context window
+context window is how much text a model sees
+what is hallucination
+hallucination is when a model invents false facts
+what is grounding
+grounding ties answers to trusted sources
+what is guardrails
+guardrails constrain model outputs for safety
+what is moderation
+moderation filters harmful content
+what is bias
+bias is unfair skew in model behavior
+what is fairness
+fairness means equitable treatment across groups
+what is explainability
+explainability helps users understand model decisions
+what is interpretability
+interpretability means humans can reason about a model
+what is shap
+shap explains feature contributions to predictions
+what is lime
+lime explains individual predictions locally
+what is model card
+a model card documents model capabilities and limits
+what is data card
+a data card documents dataset composition and risks
+what is privacy
+privacy protects personal information from misuse
+what is gdpr
+gdpr is eu data protection regulation
+what is pii
+pii is personally identifiable information
+what is anonymization
+anonymization removes identifying details from data
+what is differential privacy
+differential privacy adds noise to protect individuals
+what is federated learning
+federated learning trains on decentralized data
+what is edge ai
+edge ai runs models on local devices
+what is onnx
+onnx is an open neural network exchange format
+what is tensorrt
+tensorrt optimizes nvidia inference
+what is quantization
+quantization reduces model precision for speed
+what is pruning
+pruning removes unnecessary model weights
+what is distillation
+distillation trains a smaller model from a larger one
+what is moe
+moe uses mixture of experts for scale
+what is gpu
+gpu accelerates parallel numeric computation
+what is tpu
+tpu is google tensor processing hardware
+what is cuda
+cuda is nvidia gpu programming platform
+what is rocm
+rocm is amd gpu software stack
+what is cpu
+cpu is the central processing unit
+what is ram
+ram is fast volatile memory
+what is ssd
+ssd is solid state storage
+what is hdd
+hdd is magnetic disk storage
+what is nvme
+nvme is a fast ssd interface
+what is pcie
+pcie connects high speed components
+what is usb
+usb connects peripherals to computers
+what is bluetooth
+bluetooth is short range wireless communication
+what is wifi
+wifi is wireless local area networking
+what is ethernet
+ethernet is wired local area networking
+what is router
+a router forwards packets between networks
+what is switch
+a switch connects devices in a lan
+what is modem
+a modem connects to an isp link
+what is isp
+isp is internet service provider
+what is nat
+nat translates private addresses to public ones
+what is dhcp
+dhcp assigns ip addresses automatically
+what is arp
+arp maps ip addresses to mac addresses
+what is mac address
+mac address identifies a network interface
+what is subnet
+subnet divides a network into smaller parts
+what is vlan
+vlan segments a network logically
+what is vpn tunnel
+a vpn tunnel encrypts traffic between endpoints
+what is tls
+tls encrypts data in transit
+what is ssl
+ssl is the predecessor name often used for tls
+what is certificate
+a certificate proves identity for tls
+what is ca
+ca is a certificate authority
+what is pkcs
+pkcs defines public key cryptography standards
+what is rsa
+rsa is a public key encryption algorithm
+what is ecdsa
+ecdsa is elliptic curve digital signature algorithm
+what is aes
+aes is a symmetric encryption standard
+what is sha
+sha is a family of hash functions
+what is bcrypt
+bcrypt hashes passwords slowly to resist guessing
+what is argon2
+argon2 is a modern password hashing algorithm
+what is salt
+salt randomizes password hashes
+what is pepper
+pepper is a secret added before hashing
+what is key rotation
+key rotation replaces cryptographic keys periodically
+what is hsm
+hsm is hardware that protects keys
+what is kms
+kms manages encryption keys in cloud services
+what is secrets manager
+secrets manager stores and rotates secrets securely
+what is vault
+vault manages secrets and access policies
+what is iam
+iam manages identities and permissions in cloud
+what is rbac
+rbac grants permissions by role
+what is abac
+abac grants permissions by attributes
+what is least privilege
+least privilege gives only necessary access
+what is zero trust
+zero trust verifies every request continuously
+what is siem
+siem aggregates security logs for analysis
+what is ids
+ids detects suspicious network activity
+what is ips
+ips blocks detected threats automatically
+what is waf
+waf protects web apps from common attacks
+what is ddos
+ddos overwhelms a service with traffic
+what is botnet
+botnet is a network of compromised machines
+what is ransomware
+ransomware encrypts data and demands payment
+what is spyware
+spyware secretly monitors user activity
+what is xss
+xss injects scripts into web pages
+what is csrf
+csrf tricks users into unwanted actions
+what is sql injection
+sql injection manipulates database queries
+what is command injection
+command injection runs shell commands via input
+what is path traversal
+path traversal accesses files outside intended directories
+what is ssrf
+ssrf makes the server request internal resources
+what is deserialization
+deserialization can execute untrusted object graphs
+what is sandbox
+sandbox isolates untrusted code execution
+what is container escape
+container escape breaks out of container isolation
+what is kernel
+kernel is the core operating system component
+what is syscall
+syscall is how programs ask the kernel for services
+what is process
+process is a running program instance
+what is thread
+thread is a lightweight unit of execution
+what is fork
+fork creates a child process on unix
+what is signal
+signal notifies a process of events
+what is pipe
+pipe connects stdout of one process to stdin of another
+what is shell redirection
+redirection sends streams to files or commands
+what is cron
+cron schedules recurring unix jobs
+what is systemd
+systemd manages services on modern linux
+what is journalctl
+journalctl reads systemd journal logs
+what is top
+top shows live process resource usage
+what is htop
+htop is an interactive process viewer
+what is ps
+ps lists running processes
+what is kill
+kill sends signals to processes
+what is chmod
+chmod changes file permissions
+what is chown
+chown changes file ownership
+what is sudo
+sudo runs commands as another user
+what is root
+root is the superuser account on unix
+what is home directory
+home directory is a users personal folder
+what is path variable
+path lists directories searched for executables
+what is shebang
+shebang tells the shell which interpreter to use
+what is makefile
+makefile defines build rules for make
+what is cmake
+cmake generates build files cross platform
+what is gcc
+gcc is the gnu c compiler
+what is clang
+clang is llvm c family compiler
+what is linker
+linker combines object files into executables
+what is debugger
+debugger lets you inspect running programs
+what is gdb
+gdb is the gnu debugger
+what is valgrind
+valgrind finds memory errors in programs
+what is asan
+asan detects memory safety bugs at runtime
+what is static analysis
+static analysis inspects code without running it
+what is dynamic analysis
+dynamic analysis inspects code while it runs
+what is fuzzing
+fuzzing feeds random inputs to find crashes
+what is sanitizer
+sanitizer instruments code to catch bugs
+what is code review
+code review evaluates changes before merging
+what is pair programming
+pair programming is two people coding together
+what is mob programming
+mob programming is the whole team coding together
+what is agile
+agile is iterative software development approach
+what is scrum
+scrum is an agile framework with sprints
+what is kanban
+kanban visualizes work on a board
+what is sprint
+sprint is a fixed development iteration
+what is backlog
+backlog is prioritized upcoming work
+what is standup
+standup is a short daily team sync
+what is retrospective
+retrospective reflects on what to improve
+what is planning poker
+planning poker estimates task effort as a team
+what is story point
+story point estimates relative task size
+what is velocity
+velocity is work completed per sprint
+what is burndown chart
+burndown chart tracks remaining work over time
+what is roadmap
+roadmap outlines planned product direction
+what is mvp
+mvp is minimum viable product
+what is poc
+poc is proof of concept
+what is prototype
+prototype is an early model to test ideas
+what is user story
+user story describes value from user perspective
+what is acceptance criteria
+acceptance criteria define when a story is done
+what is definition of done
+definition of done is team agreement on completeness
+what is technical debt
+technical debt is future cost from shortcuts
+what is refactoring sprint
+refactoring sprint focuses on improving code health
+what is spike
+spike is time boxed research task
+what is bug triage
+bug triage prioritizes and assigns reported bugs
+what is hotfix
+hotfix is urgent patch for production issue
+what is release branch
+release branch stabilizes code before shipping
+what is feature branch
+feature branch develops one change in isolation
+what is trunk based development
+trunk based development merges small changes frequently
+what is git flow
+git flow is a branching model with release branches
+what is merge conflict
+merge conflict happens when histories disagree
+what is rebase
+rebase replays commits on another base
+what is cherry pick
+cherry pick applies one commit elsewhere
+what is stash
+stash temporarily saves uncommitted changes
+what is tag
+tag marks a specific commit often for releases
+what is semver
+semver uses major minor patch version numbers
+what is changelog
+changelog records notable changes between releases
+what is release notes
+release notes summarize what changed for users
+what is deprecation
+deprecation marks features for future removal
+what is backward compatibility
+backward compatibility keeps old clients working
+what is migration guide
+migration guide helps users upgrade versions
+what is breaking change
+breaking change requires users to update code
+what is lts
+lts is long term support release line
+what is nightly build
+nightly build is automated daily build
+what is canary release
+canary release rolls out to a small audience first
+what is blue green deployment
+blue green deployment switches traffic between two environments
+what is rolling deployment
+rolling deployment updates instances gradually
+what is feature flag
+feature flag toggles functionality without redeploying
+what is dark launch
+dark launch enables features hidden from users
+what is kill switch
+kill switch quickly disables a feature in production
+what is chaos engineering
+chaos engineering tests resilience by injecting failures
+what is game day
+game day practices incident response with simulated failures
+what is runbook
+runbook documents steps to handle common operations
+what is playbook
+playbook is a broader operational guide
+what is sre
+sre applies software engineering to operations
+what is devops
+devops integrates development and operations practices
+what is platform team
+platform team builds internal developer tools
+what is developer experience
+developer experience is how easy it is to build software
+what is internal developer portal
+internal developer portal centralizes service info and tools
+what is service catalog
+service catalog lists available internal services
+what is golden path
+golden path is the recommended way to build services
+what is template repo
+template repo bootstraps new projects consistently
+what is scaffolding
+scaffolding generates starter project structure
+what is boilerplate
+boilerplate is repetitive starter code
+what is sdk
+sdk is a library for building on a platform
+what is cli tool
+cli tool is a command line utility
+what is library
+library is reusable code others import
+what is framework
+framework provides structure and conventions for apps
+what is plugin
+plugin extends software with additional features
+what is extension
+extension adds capabilities to an editor or browser
+what is middleware
+middleware runs between request and handler
+what is interceptor
+interceptor hooks into request or response flow
+what is filter
+filter selects or transforms data passing through
+what is pipeline pattern
+pipeline pattern chains processing stages
+what is observer pattern
+observer pattern notifies subscribers of changes
+what is strategy pattern
+strategy pattern swaps algorithms at runtime
+what is factory pattern
+factory pattern creates objects without specifying exact class
+what is singleton pattern
+singleton pattern ensures one instance exists
+what is dependency injection
+dependency injection provides dependencies from outside
+what is inversion of control
+inversion of control delegates control to a container
+what is service locator
+service locator finds dependencies from a registry
+what is repository pattern
+repository pattern abstracts data access
+what is unit of work
+unit of work groups database changes atomically
+what is dto
+dto transfers data between layers
+what is entity
+entity represents a domain object with identity
+what is value object
+value object is defined by its attributes not identity
+what is aggregate
+aggregate is a cluster treated as one consistency boundary
+what is domain event
+domain event records something that happened in the domain
+what is event sourcing
+event sourcing stores state as a sequence of events
+what is cqrs
+cqrs separates read and write models
+what is saga
+saga coordinates long running transactions across services
+what is outbox pattern
+outbox pattern reliably publishes events with database writes
+what is idempotency
+idempotency means repeating a request has same effect
+what is exactly once
+exactly once delivery is hard but often approximated
+what is at least once
+at least once may deliver duplicates
+what is at most once
+at most once may lose messages
+what is dead letter queue
+dead letter queue stores messages that failed processing
+what is retry policy
+retry policy defines how to retry failed operations
+what is exponential backoff
+exponential backoff increases wait time between retries
+what is jitter
+jitter randomizes retry delays to avoid thundering herd
+what is circuit breaker
+circuit breaker stops calls when failures exceed threshold
+what is bulkhead
+bulkhead isolates resources so one failure does not spread
+what is timeout
+timeout limits how long to wait for a response
+what is deadline
+deadline is absolute time by which work must finish
+what is cancellation
+cancellation stops work that is no longer needed
+what is backpressure
+backpressure slows producers when consumers are overloaded
+what is rate limiting
+rate limiting caps requests per time window
+what is token bucket
+token bucket is a common rate limiting algorithm
+what is leaky bucket
+leaky bucket smooths bursts of traffic
+what is throttling
+throttling reduces throughput under load
+what is autoscaling
+autoscaling adjusts capacity based on demand
+what is horizontal scaling
+horizontal scaling adds more instances
+what is vertical scaling
+vertical scaling adds more power to one instance
+what is cold start
+cold start is delay when a new instance boots
+what is warm pool
+warm pool keeps instances ready to serve traffic
+what is health check
+health check verifies a service is ready
+what is liveness probe
+liveness probe checks if process is alive
+what is readiness probe
+readiness probe checks if service can accept traffic
+what is graceful shutdown
+graceful shutdown finishes in flight work before exit
+what is zero downtime deploy
+zero downtime deploy updates without service interruption
+what is maintenance window
+maintenance window is planned downtime for changes
+what is status page
+status page communicates service availability publicly
+what is incident commander
+incident commander coordinates response during outages
+what is blameless postmortem
+blameless postmortem focuses on systems not people
+what is root cause analysis
+root cause analysis finds underlying failure reasons
+what is five whys
+five whys asks why repeatedly to find root cause
+what is fishbone diagram
+fishbone diagram categorizes possible causes
+what is run chart
+run chart plots a metric over time simply
+what is control chart
+control chart detects process variation statistically
+what is p value
+p value measures statistical significance of a result
+what is confidence interval
+confidence interval estimates a range for a parameter
+what is hypothesis test
+hypothesis test evaluates a claim about data
+what is bayes theorem
+bayes theorem updates beliefs with new evidence
+what is prior
+prior is belief before seeing data
+what is posterior
+posterior is belief after seeing data
+what is likelihood
+likelihood measures how well data fits a model
+what is mle
+mle finds parameters that maximize likelihood
+what is map estimation
+map estimation uses prior plus likelihood
+what is regularization
+regularization penalizes complex models to reduce overfitting
+what is l1 regularization
+l1 regularization encourages sparse weights
+what is l2 regularization
+l2 regularization penalizes large weights
+what is bias variance tradeoff
+bias variance tradeoff balances under and over fitting
+what is learning curve
+learning curve plots performance vs training set size
+what is confusion matrix
+confusion matrix summarizes classification errors
+what is precision
+precision is true positives over predicted positives
+what is recall
+recall is true positives over actual positives
+what is f1 score
+f1 score balances precision and recall
+what is roc auc
+roc auc measures classifier ranking quality
+what is calibration
+calibration means predicted probabilities match reality
+what is imbalanced data
+imbalanced data has unequal class frequencies
+what is oversampling
+oversampling duplicates or generates minority examples
+what is undersampling
+undersampling removes majority examples
+what is smote
+smote synthesizes minority class examples
+what is cross validation
+cross validation evaluates model on multiple splits
+what is k fold
+k fold splits data into k parts for validation
+what is stratified split
+stratified split preserves class proportions in splits
+what is holdout set
+holdout set is data never used during training
+what is data leakage
+data leakage uses future or target information incorrectly
+what is feature scaling
+feature scaling normalizes numeric input ranges
+what is one hot encoding
+one hot encoding represents categories as binary vectors
+what is label encoding
+label encoding maps categories to integers
+what is target encoding
+target encoding uses target statistics for categories
+what is binning
+binning groups continuous values into buckets
+what is imputation
+imputation fills missing values in data
+what is outlier
+outlier is an unusually extreme data point
+what is z score
+z score measures standard deviations from mean
+what is iqr
+iqr is interquartile range for robust spread
+what is pca
+pca reduces dimensionality by principal components
+what is t sne
+t sne visualizes high dimensional data in two dimensions
+what is umap
+umap is another dimensionality reduction method
+what is clustering
+clustering groups similar points without labels
+what is k means
+k means partitions data into k clusters
+what is hierarchical clustering
+hierarchical clustering builds a tree of clusters
+what is dbscan
+dbscan finds clusters by density
+what is anomaly detection
+anomaly detection finds unusual patterns
+what is recommendation system
+recommendation system suggests items users may like
+what is collaborative filtering
+collaborative filtering uses user behavior similarities
+what is content based filtering
+content based filtering uses item features
+what is matrix factorization
+matrix factorization learns latent factors for users and items
+what is cold start problem
+cold start problem is poor recommendations for new users or items
+what is ab test analysis
+ab test analysis compares metric outcomes between variants
+what is causal inference
+causal inference estimates cause effect relationships
+what is propensity score
+propensity score balances treated and control groups
+what is instrumental variable
+instrumental variable helps estimate causal effects
+what is difference in differences
+difference in differences compares changes over time
+what is regression discontinuity
+regression discontinuity exploits cutoff based assignment
+what is synthetic control
+synthetic control builds a counterfactual from weighted donors
+what is time series
+time series is data indexed by time
+what is stationarity
+stationarity means statistical properties do not change over time
+what is arima
+arima models time series with autoregression and moving average
+what is prophet
+prophet is facebook tool for forecasting
+what is seasonality
+seasonality repeats patterns at regular intervals
+what is trend
+trend is long term direction in data
+what is autocorrelation
+autocorrelation measures correlation with lagged values
+what is fft
+fft transforms signals between time and frequency domains
+what is wavelet
+wavelet analyzes signals at multiple scales
+what is signal processing
+signal processing manipulates measured signals
+what is filtering
+filtering removes unwanted frequency components
+what is convolution
+convolution combines signals with a kernel
+what is pooling
+pooling downsamples feature maps in cnns
+what is cnn
+cnn uses convolutional layers for spatial data
+what is rnn
+rnn processes sequences with recurrent connections
+what is gru
+gru is a simplified gated recurrent unit
+what is transformer
+transformer uses self attention for sequences
+what is self attention
+self attention relates each token to all others
+what is multi head attention
+multi head attention runs several attention heads in parallel
+what is positional encoding
+positional encoding adds order information to tokens
+what is layer norm
+layer norm normalizes activations within a layer
+what is batch norm
+batch norm normalizes activations across a batch
+what is residual connection
+residual connection adds input to layer output
+what is skip connection
+skip connection is another name for residual connection
+what is activation function
+activation function introduces nonlinearity in networks
+what is relu
+relu outputs zero for negative inputs
+what is gelu
+gelu is a smooth activation used in transformers
+what is softmax
+softmax converts logits to probabilities
+what is sigmoid
+sigmoid squashes values between zero and one
+what is tanh
+tanh squashes values between negative and positive one
+what is cross entropy loss
+cross entropy loss compares predicted and true distributions
+what is hinge loss
+hinge loss is used in support vector machines
+what is huber loss
+huber loss is robust to outliers in regression
+what is mse
+mse is mean squared error for regression
+what is mae
+mae is mean absolute error for regression
+what is rmse
+rmse is root mean squared error
+what is r squared
+r squared measures explained variance in regression
+what is gradient descent
+gradient descent updates weights along loss gradient
+what is sgd
+sgd uses small random batches for updates
+what is momentum
+momentum accumulates past gradients for smoother updates
+what is adam optimizer
+adam adapts learning rates per parameter
+what is learning rate schedule
+learning rate schedule changes step size during training
+what is warmup
+warmup gradually increases learning rate at start
+what is weight decay
+weight decay penalizes large weights like l2 regularization
+what is gradient clipping
+gradient clipping limits exploding gradient magnitude
+what is mixed precision
+mixed precision uses lower precision for speed
+what is data augmentation
+data augmentation creates varied training examples
+what is transfer learning
+transfer learning reuses pretrained model features
+what is zero shot learning
+zero shot learning handles classes not seen in training
+what is few shot learning
+few shot learning learns from very few examples
+what is meta learning
+meta learning learns how to learn new tasks quickly
+what is reinforcement learning
+reinforcement learning learns from rewards and actions
+what is q learning
+q learning estimates action values in rl
+what is policy gradient
+policy gradient optimizes a policy directly
+what is actor critic
+actor critic combines value and policy methods
+what is reward shaping
+reward shaping guides learning with auxiliary rewards
+what is exploration exploitation
+exploration exploitation balances trying new vs best actions
+what is markov decision process
+markov decision process formalizes sequential decision problems
+what is bellman equation
+bellman equation relates value of states recursively
+what is monte carlo method
+monte carlo method estimates quantities by random sampling
+what is mcmc
+mcmc samples from complex probability distributions
+what is variational inference
+variational inference approximates intractable posteriors
+what is vae
+vae is a variational autoencoder generative model
+what is gan
+gan trains generator against a discriminator
+what is diffusion model
+diffusion model generates data by denoising steps
+what is stable diffusion
+stable diffusion is a popular image diffusion model
+what is clip
+clip aligns images and text in shared space
+what is dalle
+dalle generates images from text prompts
+what is whisper
+whisper is openai speech recognition model
+what is tts
+tts converts text to spoken audio
+what is asr
+asr is automatic speech recognition
+what is nlp
+nlp is natural language processing
+what is ner
+ner finds named entities in text
+what is pos tagging
+pos tagging labels words with parts of speech
+what is parsing
+parsing analyzes grammatical structure of sentences
+what is dependency parsing
+dependency parsing links words by grammatical relations
+what is constituency parsing
+constituency parsing builds phrase structure trees
+what is stemming
+stemming reduces words to a root form roughly
+what is lemmatization
+lemmatization maps words to dictionary base forms
+what is stop words
+stop words are common words often removed
+what is tf idf
+tf idf weights terms by frequency and rarity
+what is bag of words
+bag of words represents text as word counts
+what is word2vec
+word2vec learns word vectors from context
+what is glove
+glove learns word vectors from co occurrence statistics
+what is fasttext
+fasttext handles subword information for words
+what is bm25
+bm25 ranks documents by lexical relevance
+what is semantic search
+semantic search matches meaning not just keywords
+what is reranking
+reranking reorders initial retrieval results with a stronger model
+what is chunking
+chunking splits long documents for retrieval
+what is summarization
+summarization produces shorter versions of text
+what is extractive summarization
+extractive summarization selects existing sentences
+what is abstractive summarization
+abstractive summarization generates new summary wording
+what is translation
+translation converts text between languages
+what is bleu score
+bleu score evaluates machine translation quality
+what is rouge score
+rouge score evaluates summarization overlap
+what is perplexity
+perplexity measures language model uncertainty
+what is beam search
+beam search keeps top partial sequences while decoding
+what is nucleus sampling
+nucleus sampling samples from smallest likely token set
+what is temperature
+temperature scales randomness in sampling
+what is top k sampling
+top k sampling chooses among k most likely tokens
+what is repetition penalty
+repetition penalty discourages repeating recent tokens
+what is stop sequence
+stop sequence ends generation when produced
+what is system prompt
+system prompt sets assistant behavior and constraints
+what is user prompt
+user prompt is the message from the user
+what is assistant message
+assistant message is the model reply
+what is tool calling
+tool calling lets models invoke external functions
+what is function schema
+function schema describes tool parameters to the model
+what is json mode
+json mode constrains output to valid json
+what is structured output
+structured output matches a predefined schema
+what is streaming tokens
+streaming tokens sends partial output as generated
+what is latency budget
+latency budget is max acceptable response time
+what is cost budget
+cost budget limits spend on model usage
+what is caching responses
+caching responses reuses identical query results
+what is prompt cache
+prompt cache stores reusable prefix computations
+what is batch inference
+batch inference processes many inputs together efficiently
+what is model quantization int8
+int8 quantization uses eight bit weights for inference
+what is gguf
+gguf is a file format for local llms
+what is llama cpp
+llama cpp runs llms efficiently on cpu
+what is ollama
+ollama runs local models with simple commands
+what is vllm
+vllm serves llms with high throughput
+what is triton inference server
+triton serves multiple model frameworks in production
+what is onnx runtime
+onnx runtime runs onnx models efficiently
+what is openvino
+openvino optimizes inference on intel hardware
+what is tensorboard
+tensorboard visualizes training metrics
+what is wandb
+wandb tracks experiments and artifacts
+what is mlflow
+mlflow manages ml lifecycle and models
+what is kubeflow
+kubeflow runs ml workflows on kubernetes
+what is airflow
+airflow orchestrates data and ml pipelines
+what is dag
+dag is directed acyclic graph of tasks
+what is dvc
+dvc versions data and models with git
+what is great expectations
+great expectations validates data quality in pipelines
+what is feature engineering
+feature engineering creates useful input variables
+what is model registry
+model registry stores approved model versions
+what is shadow deployment
+shadow deployment runs new model alongside old without serving users
+what is online learning
+online learning updates model as new data arrives
+what is concept drift
+concept drift is when data distribution changes over time
+what is data drift
+data drift is change in input feature distribution
+what is model drift
+model drift is degradation of model performance over time
+what is monitoring dashboard
+monitoring dashboard tracks model and system metrics
+what is human in the loop
+human in the loop involves people reviewing model outputs
+what is active learning
+active learning selects most informative examples to label
+what is weak supervision
+weak supervision uses noisy or heuristic labels at scale
+what is semi supervised learning
+semi supervised learning uses labeled and unlabeled data
+what is self supervised learning
+self supervised learning creates labels from the data itself
+what is unsupervised learning
+unsupervised learning finds patterns without labels
+what is supervised learning
+supervised learning learns from labeled examples
+what is classification
+classification predicts discrete categories
+what is regression task
+regression task predicts continuous numeric values
+what is ranking
+ranking orders items by relevance or preference
+what is multi label classification
+multi label classification assigns multiple labels per example
+what is multi class classification
+multi class classification assigns one label among many
+what is binary classification
+binary classification chooses between two classes
+what is ordinal regression
+ordinal regression respects ordered category levels
+what is sequence labeling
+sequence labeling assigns labels to each token
+what is sequence to sequence task
+sequence to sequence maps one sequence to another
+what is this project
+this project is a seq2seq chatbot in python
+how do i run chat
+use python main dot py chat after training
+how do i run mcp server
+use python mcp server dot py for cursor tools
+what is the best way to start
+create a venv install requirements then train
+are you ready now
+yes i am ready to chat with you
